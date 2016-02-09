@@ -1,0 +1,1 @@
+$('.red').removeClass('red').addClass('green');

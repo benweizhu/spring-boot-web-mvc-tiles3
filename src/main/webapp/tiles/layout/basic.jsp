@@ -13,4 +13,6 @@
 		<!-- Footer -->
 		<tiles:insertAttribute name="footer" />
 	</body>
+	<script src="//libs.useso.com/js/jquery/2.0.3/jquery.min.js"></script>
+	<script src="<c:url value="/static/js/home.js"/>"></script>
 </html>
